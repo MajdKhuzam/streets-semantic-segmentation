@@ -1,4 +1,4 @@
-<h2>  Abstract</h2>
+<h2>    Abstract</h2>
 
 This study investigates the suitability of the U-Net architecture, known for its efficiency in feature extraction, for the semantic segmentation task.
 The project aims to develop a U-Net based street segmentation system, including image preprocessing, implementation of a custom U-Net architecture and training it with appropriate loss functions. The effectiveness of the model will be evaluated on a separate test dataset using the specified metrics.
